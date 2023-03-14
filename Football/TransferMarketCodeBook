@@ -1,0 +1,22 @@
+Data from kaggle at https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
+
+Background:
+This note book is was created in March 2023. Newcastle United recently advertised for a data and insights manager, which looked an interesting post, one of the key roles of the post is to get insight into the transfer market. I know next to nothing about team sports, including football and less about transfer markets. So this nootbook is part of a journey into understanding sports data.
+
+The Data:
+The data came from Kaggle
+Its dated xxx
+There are 8 csv files:
+players.csv
+player_valuations.csv
+clubs.csv
+club_games.csv
+games.csv
+game_events.csv
+competitions.csv
+appearances.csv
+
+Research:
+Science in sports podcast, episode X.
+
+https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac
